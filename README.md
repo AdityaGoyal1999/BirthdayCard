@@ -1,2 +1,2 @@
 # BirthdayCard
-A birthday card in HTML and CSS
+This is a responsive birthday card written in HTML and CSS.
